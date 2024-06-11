@@ -60,4 +60,4 @@ print("O resultado da potenciação é: ", potenciação)
 numero = int(input("Digite um número: ")) #pego a entrada, convertendo
 numero_sendo_impar = numero%2 #resto da divisão por 2, se for par, o resto da divisão é zero; se for impar, o resto é 1.
 numero_sendo_impar = bool(numero_sendo_impar) #retornará true se tiver 1 e false se tiver 0
-print("O número", numero, "é impar?", numero_sendo_impar) # printando se o numero é impar (true) ou não (false)2
+print("O número", numero, "é impar?", numero_sendo_impar) # printando se o numero é impar (true) ou não (false)
