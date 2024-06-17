@@ -1,3 +1,5 @@
+# Sistema para uma empreiteira
+
 import math
 
 def metros_para_centrimetros():
@@ -56,7 +58,7 @@ def calcular_salario():
     print("= Salário líquido por trabalhador: R$", format(salario_liquido, ".2f"))
 
 while True:
-    print("SISTEMA PARA EMPREITERA CANTINHO DA CONSTRUTORA")
+    print("SISTEMA PARA EMPREITERA: ")
     print("Escolha uma opção: ")
     print("1. Metros para centímetros")
     print("2. Área do círculo")
